@@ -4,5 +4,5 @@ node_modules/*
 session/*
 data/*
 demo/*
-bak/*
-desktop/*
+bak
+desktop
