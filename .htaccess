@@ -1,0 +1,13 @@
+DirectoryIndex index2.html
+AddDefaultCharset utf-8
+AddLanguage jp .jp
+
+php_flag magic_quotes_gpc off
+
+php_value memory_limit 1G
+php_value post_max_size 1G
+php_value upload_max_filesize 1G
+php_value max_file_uploads 1000
+
+php_value pcre.backtrack_limit 500000
+php_value pcre.recursion_limit 500000
